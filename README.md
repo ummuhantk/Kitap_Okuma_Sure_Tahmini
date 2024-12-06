@@ -1,4 +1,4 @@
-### Kitap_Okuma_Sure_Tahmini_Demo
+### Kitap_Okuma_Sure_Tahmini
 
 ## 1. Giriş
 Proje Amacı: Bu projenin amacı, kişilerin okuma hızlarına göre kitap okuma sürelerini tahmin eden ve kişiselleştirilmiş kitap önerileri sunan bir model geliştirmektir.
